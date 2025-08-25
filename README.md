@@ -124,7 +124,7 @@ const danish = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danish296&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=danish296&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -139,16 +139,16 @@ const danish = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=danish296&theme=radical&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danish296&theme=redical&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Repositories
 
 <div align="center">
 
-[![Magic Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=danish296&repo=magic-portfolio-for-next-js&theme=radical)](https://github.com/danish296/magic-portfolio-for-next-js)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danish296&repo=magic-portfolio-for-next-js&theme=radical)](https://github.com/danish296/magic-portfolio-for-next-js)
 
 </div>
 
@@ -181,7 +181,12 @@ const danish = {
 
 ### 💫 "The best way to predict the future is to create it." 
 
-<img src="https://raw.githubusercontent.com/danish296/danish296/output/snake.svg" alt="Snake animation" />
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danish296/danish296/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danish296/danish296/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danish296/danish296/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
