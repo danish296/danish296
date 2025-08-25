@@ -189,7 +189,7 @@ const danish = {
 ---
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=51&descAlign=62" alt="Footer" />
+  <img src="https://github.com/danish296/danish296/blob/main/assets/hand-wave.gif" width="30px">
 </p>
 
 </div>
