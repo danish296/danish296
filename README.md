@@ -144,11 +144,13 @@ const danish = {
 
 ---
 
-## 🌟 Featured Repositories
+## 🌟 Featured AI/ML Projects
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=danish296&repo=magic-portfolio-for-next-js&theme=radical)](https://github.com/danish296/magic-portfolio-for-next-js)
+[![Cores AI](https://github-readme-stats.vercel.app/api/pin/?username=danish296&repo=cores-ai&theme=radical)](https://github.com/danish296/cores-ai)
+
+[![Animal Image Identification](https://github-readme-stats.vercel.app/api/pin/?username=danish296&repo=Animal-Image-Identification&theme=radical)](https://github.com/danish296/Animal-Image-Identification)
 
 </div>
 
@@ -181,12 +183,8 @@ const danish = {
 
 ### 💫 "The best way to predict the future is to create it." 
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danish296/danish296/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danish296/danish296/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danish296/danish296/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Simple animated wave without snake -->
+<img width="100%" src="https://github.com/danish296/danish296/blob/output/github-contribution-grid-snake.svg" />
 
 ---
 
