@@ -148,7 +148,7 @@ const danish = {
 
 <div align="center">
 
-[![Cores AI](https://github-readme-stats.vercel.app/api/pin/?username=danish296&repo=cores-ai&theme=radical)](https://github.com/danish296/cores-ai)
+[![Cores AI](https://github-readme-stats.vercel.app/api/pin/?username=danish296&repo=cores-ai&theme=radical)](https://github.com/danish296/coresai)
 
 [![Animal Image Identification](https://github-readme-stats.vercel.app/api/pin/?username=danish296&repo=Animal-Image-Identification&theme=radical)](https://github.com/danish296/Animal-Image-Identification)
 
@@ -184,7 +184,7 @@ const danish = {
 ### 💫 "The best way to predict the future is to create it." 
 
 <!-- Simple animated wave without snake -->
-<img width="100%" src="https://github.com/danish296/danish296/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 ---
 
