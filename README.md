@@ -16,7 +16,7 @@
 ```javascript
 const danish = {
     pronouns: "He/Him",
-    location: "🌍 Pakistan",
+    location: "🌍 India",
     currentFocus: "AI/ML Engineering & Full Stack Development",
     learning: ["Machine Learning", "Deep Learning", "Cloud Computing"],
     askMeAbout: ["AI/ML", "Web Development", "Python", "JavaScript"],
